@@ -61,8 +61,13 @@
 ![img_5.png](imgs/img_5.png)
 
 
+### 扫码关注公众号 获取更多项目和编程资料
 
+关注公众号：小猿天天学习
 
+公众号ID：xzzard
+
+![img.png](img.png)
 
 
 
